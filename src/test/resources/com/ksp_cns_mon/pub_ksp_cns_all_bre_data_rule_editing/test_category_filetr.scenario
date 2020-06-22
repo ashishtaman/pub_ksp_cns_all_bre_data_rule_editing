@@ -1,0 +1,13 @@
+<scenario>
+  <name>test_category_filetr</name>
+  <maxRuleFirings>100000</maxRuleFirings>
+  <globals/>
+  <fixtures/>
+  <rules/>
+  <inclusive>false</inclusive>
+  <packageName>com.ksp_cns_mon.pub_ksp_cns_all_bre_data_rule_editing</packageName>
+  <imports>
+    <imports/>
+  </imports>
+  <ksessions/>
+</scenario>
